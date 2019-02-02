@@ -1,0 +1,12 @@
+git init
+git remote add origin https://github.com/engp8691/redux_burger.git
+git push -u origin master
+add src
+git add public
+git add package.json
+git add package-lock.json
+git add build
+git add git_howto.text
+git commit -m "second commit"
+git push
+
